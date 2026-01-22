@@ -1,26 +1,117 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+@theme {
+  --color-tw-crimson: #BD4257;
+  --color-tw-teal: #00323B;
+  --color-tw-dark-teal: #00252C;
+  --color-tw-black: #000000;
+  --color-tw-gray: #333333;
+  --color-tw-light-gray: #F7F7F7;
+
+  --font-serif: var(--font-roboto-serif), ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
+  --font-sans: Helvetica, "Helvetica Neue", Arial, sans-serif;
+
+  --animate-marquee: marquee 30s linear infinite;
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
+@keyframes marquee {
+  0% {
+    transform: translateX(0);
+  }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+  100% {
+    transform: translateX(-50%);
   }
 }
 
+/* Custom Styles */
+/* Base scaling for headings (rem units) +1px approximation */
+html {
+  font-size: 17px;
+}
+
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-sans);
+  color: var(--color-tw-black);
+  background-color: white;
+  font-size: 1rem;
+  /* Increased from 0.95rem */
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--font-serif);
+  font-weight: 500;
+  line-height: 1.1;
+  letter-spacing: -0.02em;
+}
+
+/* Taglines and featured text */
+.tagline {
+  font-family: var(--font-serif);
+  font-style: italic;
+}
+
+@layer utilities {
+  .text-tw-body {
+    font-size: 0.825rem;
+    /* ~14px */
+    color: var(--color-tw-gray);
+    line-height: 1.7;
+  }
+
+  /* NYT Typography */
+  .prose-nyt {
+    font-family: var(--font-serif);
+    color: #121212;
+    font-size: 0.825rem;
+    /* ~14px */
+    line-height: 1.9;
+  }
+
+  .prose-nyt p {
+    margin-bottom: 2rem;
+  }
+
+  .prose-nyt h2 {
+    font-size: 1.25rem;
+    margin-top: 2.5rem;
+    margin-bottom: 1.25rem;
+    color: #000;
+  }
+
+  .prose-nyt h3 {
+    font-size: 1.1rem;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    color: #000;
+  }
+
+  .prose-nyt ul,
+  .prose-nyt ol {
+    margin-bottom: 2rem;
+    padding-left: 1.5rem;
+  }
+
+  .prose-nyt li {
+    margin-bottom: 0.75rem;
+    list-style-type: disc;
+  }
+
+  .prose-nyt a {
+    color: inherit;
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 4px;
+  }
+
+  .prose-nyt a:hover {
+    color: var(--color-tw-crimson);
+  }
 }
