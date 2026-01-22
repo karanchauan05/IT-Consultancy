@@ -2,49 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <!-- Core Pages -->
   <url>
-    <loc>https://nexusit.com/</loc>
+    <loc>https://nexusit-gamma.vercel.app/</loc>
     <lastmod>2026-01-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://nexusit.com/about</loc>
+    <loc>https://nexusit-gamma.vercel.app/about</loc>
     <lastmod>2026-01-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://nexusit.com/services</loc>
+    <loc>https://nexusit-gamma.vercel.app/services</loc>
     <lastmod>2026-01-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://nexusit.com/industries</loc>
+    <loc>https://nexusit-gamma.vercel.app/industries</loc>
     <lastmod>2026-01-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://nexusit.com/resources</loc>
+    <loc>https://nexusit-gamma.vercel.app/resources</loc>
     <lastmod>2026-01-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://nexusit.com/careers</loc>
+    <loc>https://nexusit-gamma.vercel.app/careers</loc>
     <lastmod>2026-01-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://nexusit.com/contact</loc>
+    <loc>https://nexusit-gamma.vercel.app/contact</loc>
     <lastmod>2026-01-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://nexusit.com/ai-readiness</loc>
+    <loc>https://nexusit-gamma.vercel.app/ai-readiness</loc>
     <lastmod>2026-01-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
@@ -52,169 +52,169 @@
 
   <!-- Service Subpages -->
   <url>
-    <loc>https://nexusit.com/services/scaling-ai</loc>
+    <loc>https://nexusit-gamma.vercel.app/services/scaling-ai</loc>
     <lastmod>2026-01-22</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://nexusit.com/services/customer-experience</loc>
+    <loc>https://nexusit-gamma.vercel.app/services/customer-experience</loc>
     <lastmod>2026-01-22</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://nexusit.com/services/product-innovation</loc>
+    <loc>https://nexusit-gamma.vercel.app/services/product-innovation</loc>
     <lastmod>2026-01-22</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://nexusit.com/services/data-modernization</loc>
+    <loc>https://nexusit-gamma.vercel.app/services/data-modernization</loc>
     <lastmod>2026-01-22</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://nexusit.com/services/platform-modernization</loc>
+    <loc>https://nexusit-gamma.vercel.app/services/platform-modernization</loc>
     <lastmod>2026-01-22</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://nexusit.com/services/application-management</loc>
+    <loc>https://nexusit-gamma.vercel.app/services/application-management</loc>
     <lastmod>2026-01-22</lastmod>
     <priority>0.8</priority>
   </url>
 
   <!-- Industry Subpages -->
   <url>
-    <loc>https://nexusit.com/industries/financial-services</loc>
+    <loc>https://nexusit-gamma.vercel.app/industries/financial-services</loc>
     <lastmod>2026-01-22</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://nexusit.com/industries/retail-ecommerce</loc>
+    <loc>https://nexusit-gamma.vercel.app/industries/retail-ecommerce</loc>
     <lastmod>2026-01-22</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://nexusit.com/industries/healthcare</loc>
+    <loc>https://nexusit-gamma.vercel.app/industries/healthcare</loc>
     <lastmod>2026-01-22</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://nexusit.com/industries/automotive</loc>
+    <loc>https://nexusit-gamma.vercel.app/industries/automotive</loc>
     <lastmod>2026-01-22</lastmod>
     <priority>0.7</priority>
   </url>
 
   <!-- Resource Categories -->
   <url>
-    <loc>https://nexusit.com/resources/publications</loc>
+    <loc>https://nexusit-gamma.vercel.app/resources/publications</loc>
     <lastmod>2026-01-22</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://nexusit.com/resources/articles</loc>
+    <loc>https://nexusit-gamma.vercel.app/resources/articles</loc>
     <lastmod>2026-01-22</lastmod>
     <priority>0.7</priority>
   </url>
 
   <!-- Individual Articles -->
   <url>
-    <loc>https://nexusit.com/resources/articles/generative-ai-efficiency</loc>
+    <loc>https://nexusit-gamma.vercel.app/resources/articles/generative-ai-efficiency</loc>
     <lastmod>2025-09-20</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://nexusit.com/resources/articles/responsible-technology-trust</loc>
+    <loc>https://nexusit-gamma.vercel.app/resources/articles/responsible-technology-trust</loc>
     <lastmod>2025-10-05</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://nexusit.com/resources/articles/future-is-cloud-native</loc>
+    <loc>https://nexusit-gamma.vercel.app/resources/articles/future-is-cloud-native</loc>
     <lastmod>2025-11-12</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://nexusit.com/resources/articles/zero-trust-cybersecurity</loc>
+    <loc>https://nexusit-gamma.vercel.app/resources/articles/zero-trust-cybersecurity</loc>
     <lastmod>2025-10-02</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://nexusit.com/resources/articles/sustainable-tech-strategy</loc>
+    <loc>https://nexusit-gamma.vercel.app/resources/articles/sustainable-tech-strategy</loc>
     <lastmod>2025-10-18</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://nexusit.com/resources/articles/future-of-data-platforms</loc>
+    <loc>https://nexusit-gamma.vercel.app/resources/articles/future-of-data-platforms</loc>
     <lastmod>2025-11-03</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://nexusit.com/resources/articles/future-of-remote-work-tech</loc>
+    <loc>https://nexusit-gamma.vercel.app/resources/articles/future-of-remote-work-tech</loc>
     <lastmod>2025-11-21</lastmod>
     <priority>0.6</priority>
   </url>
 
   <!-- Individual Case Studies (Publications) -->
   <url>
-    <loc>https://nexusit.com/resources/publications/modern-banking-transformation</loc>
+    <loc>https://nexusit-gamma.vercel.app/resources/publications/modern-banking-transformation</loc>
     <lastmod>2025-10-12</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://nexusit.com/resources/publications/omnichannel-retail-transformation</loc>
+    <loc>https://nexusit-gamma.vercel.app/resources/publications/omnichannel-retail-transformation</loc>
     <lastmod>2025-11-15</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://nexusit.com/resources/publications/ai-powered-healthcare-diagnostics</loc>
+    <loc>https://nexusit-gamma.vercel.app/resources/publications/ai-powered-healthcare-diagnostics</loc>
     <lastmod>2025-12-05</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://nexusit.com/resources/publications/software-defined-vehicle-platform</loc>
+    <loc>https://nexusit-gamma.vercel.app/resources/publications/software-defined-vehicle-platform</loc>
     <lastmod>2026-01-10</lastmod>
     <priority>0.6</priority>
   </url>
 
   <!-- Job Posts -->
   <url>
-    <loc>https://nexusit.com/careers/software-engineer</loc>
+    <loc>https://nexusit-gamma.vercel.app/careers/software-engineer</loc>
     <lastmod>2026-01-22</lastmod>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://nexusit.com/careers/data-scientist</loc>
+    <loc>https://nexusit-gamma.vercel.app/careers/data-scientist</loc>
     <lastmod>2026-01-22</lastmod>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://nexusit.com/careers/product-designer</loc>
+    <loc>https://nexusit-gamma.vercel.app/careers/product-designer</loc>
     <lastmod>2026-01-22</lastmod>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://nexusit.com/careers/devops-engineer</loc>
+    <loc>https://nexusit-gamma.vercel.app/careers/devops-engineer</loc>
     <lastmod>2026-01-22</lastmod>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://nexusit.com/careers/business-analyst</loc>
+    <loc>https://nexusit-gamma.vercel.app/careers/business-analyst</loc>
     <lastmod>2026-01-22</lastmod>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://nexusit.com/careers/ai-ml-engineer</loc>
+    <loc>https://nexusit-gamma.vercel.app/careers/ai-ml-engineer</loc>
     <lastmod>2026-01-22</lastmod>
     <priority>0.5</priority>
   </url>
 
   <!-- Legal -->
   <url>
-    <loc>https://nexusit.com/privacy</loc>
+    <loc>https://nexusit-gamma.vercel.app/privacy</loc>
     <lastmod>2026-01-22</lastmod>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://nexusit.com/terms</loc>
+    <loc>https://nexusit-gamma.vercel.app/terms</loc>
     <lastmod>2026-01-22</lastmod>
     <priority>0.3</priority>
   </url>
